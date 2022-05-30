@@ -11,6 +11,6 @@ Trabajo bibliográfico en transiciones de fases topológicas en en modelo de Kit
     
   **PPT - Transverse Ising simulation.pdf:** presentación en PowerPoint del proceso de simulación del modelo de Ising transverso.
   
-  **Topological phase transitions.html:** Jupyter Notebook del proceso de simulación del modelo de Kitaev.
+  **Topological phase transitions.ipynb:** Jupyter Notebook del proceso de simulación del modelo de Kitaev.
   
-  **Simulation (C):** Código implementado en C para la simulación del modelo de Ising transverso.
+  **main.c / def.c / def.h:** Código implementado en C para la simulación del modelo de Ising transverso.
